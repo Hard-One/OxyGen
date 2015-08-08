@@ -2,7 +2,7 @@
 <main role="main">
 <koken:load>
 	<article class="top-section">
-		<h1 class="page-name">Showing {{ category.title }}</h1>
+		<h1 class="page-name">Zeige {{ category.title }}</h1>
 	</article>
 	<ul class="grid">
 	<koken:event>
@@ -25,7 +25,7 @@
 	</ul>
 	<koken:else>
 		<koken:note>
-			No album data found 
+			Keine Alben gefunden. 
 		</koken:note>
 </koken:load>
 <koken:include file="inc/components/loading_msg.html" />

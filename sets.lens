@@ -12,7 +12,7 @@
 			</koken:loop>
 		</ul>
 	<koken:else>
-		<koken:note>No public albums found</koken:note>
+		<koken:note>Keine öffentlichen Alben gefunden.</koken:note>
 	</koken:load>
 <koken:include file="inc/components/loading_msg.html" />
 <koken:if data="settings.footer_setting" equals="tiny_footer">

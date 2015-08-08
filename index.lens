@@ -59,7 +59,7 @@
 	</koken:load>
 	<koken:if true="settings.show_credits">
 		<div id="credit">
-			<a title="Design by {{ site.author.name }} || {{ site.theme.name }} v{{ site.theme.version }} / {{ site.theme.description }}" onclick="return !window.open(this.href);" href="http://varoystrand.se/sidor/oxygen/">Design by varoystrand.se</a> || <a title="Powered by: Koken CMS" onclick="return !window.open(this.href);" href="http://koken.me/">Powered by: Koken CMS</a>
+			<a title="Design von {{ site.author.name }} || {{ site.theme.name }} v{{ site.theme.version }} / {{ site.theme.description }}" onclick="return !window.open(this.href);" href="http://varoystrand.se/sidor/oxygen/">Design von varoystrand.se</a> || <a title="Basiert auf: Koken CMS" onclick="return !window.open(this.href);" href="http://koken.me/">Basiert auf: Koken CMS</a>
 		</div>
 	</koken:if>
 	<koken:if true="settings.show_legal_links">

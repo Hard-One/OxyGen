@@ -23,7 +23,7 @@
 	 </section>
     <koken:else>
       <koken:note>
-        No images or videos found
+        Keine Bilder oder Videos gefunden.
       </koken:note>
     </koken:load>
 <koken:include file="inc/components/loading_msg.html" />

@@ -27,7 +27,7 @@
 	</section>
 	<koken:else>
 		<koken:note>
-			No images or videos found
+			Keine Bilder oder Videos gefunden.
 		</koken:note>
 	</koken:load>
 	<koken:if data="settings.show_disc_content" equals="true">

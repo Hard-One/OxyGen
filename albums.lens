@@ -15,7 +15,7 @@
     </ul>
   <koken:else>
     <koken:note>
-      No public albums found 
+      Kein öffentlichen Alben gefunden. 
     </koken:note>
   </koken:load>
 <koken:include file="inc/components/loading_msg.html" />

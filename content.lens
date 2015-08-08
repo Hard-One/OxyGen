@@ -44,7 +44,7 @@
 	
 <koken:else>
 	<koken:note>
-		No image or video found 
+		Keine Bilder oder Videos gefunden. 
 	</koken:note>
 </koken:load>
 <koken:if data="settings.footer_setting" equals="tiny_footer">

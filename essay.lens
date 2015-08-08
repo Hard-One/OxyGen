@@ -22,7 +22,7 @@
 		</koken:if>
 		<koken:else>
 		<koken:note>
-			No published essay found 
+			Keine veröffentlichten Essays gefunden. 
 		</koken:note>
 	</koken:load>
 </div>

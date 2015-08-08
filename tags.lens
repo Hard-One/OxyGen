@@ -17,7 +17,7 @@
     	</koken:loop>
   	</ul>
 <koken:else>
-	No tags found.
+	Keine Tags gefunden.
 </koken:load>
 <koken:include file="inc/components/loading_msg.html" />
 <koken:if data="settings.footer_setting" equals="tiny_footer">

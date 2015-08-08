@@ -43,7 +43,7 @@
   </ol>
 <koken:else>
   <koken:note>
-    No timeline data found. 
+    Keine Timelinedaten gefunden. 
   </koken:note>
 </koken:load>
 <koken:include file="inc/components/loading_msg.html" />

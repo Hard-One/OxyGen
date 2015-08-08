@@ -29,7 +29,7 @@
 	</koken:if>
 <koken:else>
   <koken:note>
-    No album data found 
+    Keine Alben gefunden. 
   </koken:note>
 </koken:load>
 <koken:include file="inc/components/loading_msg.html" />

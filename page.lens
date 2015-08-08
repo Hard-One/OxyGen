@@ -11,7 +11,7 @@
 		</article>
 	<koken:else>
 		<koken:note>
-			No page found
+			Keine Seite gefunden.
 		</koken:note>
 	</koken:load>
 </div>

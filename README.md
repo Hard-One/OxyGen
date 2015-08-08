@@ -1,6 +1,10 @@
 # OxyGen a Koken theme
 ### OxyGen, we can’t live without it.
 
+#### German Translation
+This fork provides a translated visitor UI.
+
+
 We need it to live, breath and function. This colorless, odorless, tasteless gas is the third most abundant element in the universe next to hydrogen and helium. It changes everything it touches. It forms compounds with almost everything it contacts and creates something new.
 
 Most molecules in living organisms –carbohydrates, fats, proteins–contain OxyGen. They release energy in your body.

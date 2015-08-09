@@ -12,7 +12,7 @@
   <ul class="grid">
     <koken:loop>
       <li>
-        <koken:link title="View {{ content.title | content.filename }}" lightbox="{{ settings.use_lightbox }}">
+        <koken:link title="Zeige {{ content.title | content.filename }}" lightbox="{{ settings.use_lightbox }}">
           <koken:img size="{{ settings.grid_asp_ratio }}" class="preview" lazy="true" alt="{{ content.title | content.filename }}"/>
 		  <koken:if data="settings.hide_title_overlay" equals="true">
 			<div><h3>{{ content.title | content.filename }}</h3></div>

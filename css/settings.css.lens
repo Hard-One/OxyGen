@@ -612,7 +612,7 @@ main {
     font-size: 1em;
     color:#999;
     line-height:1.5em;
-    position:absolute;
+    position:relative;
     bottom:0;
 }
 

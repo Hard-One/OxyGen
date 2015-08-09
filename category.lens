@@ -9,19 +9,25 @@
 		<koken:event_content>
 			<li>
 				<koken:event_album>
-					<koken:link>
+					<koken:link title="Album anzeigen">
 						<koken:img size="{{ settings.grid_asp_ratio }}"/>
 					</koken:link>
 				</koken:event_album>
 				<koken:event_content>
 					<!-- Rendered if a new public image/video is uploaded -->
+					<koken:link title="Bild anzeigen">
+						<koken:img size="{{ settings.grid_asp_ratio }}"/>
+					</koken:link>
 				</koken:event_content>
 				<koken:event_essay>
 					<!-- Rendered if a new essay is published -->
+					<koken:link title="Essay ansehen">
+						<koken:img size="{{ settings.grid_asp_ratio }}"/>
+					</koken:link>
 				</koken:event_essay>
 			</li>
-		<koken:event_content>
-	<koken:event>
+		</koken:event_content>
+	</koken:event>
 	</ul>
 	<koken:else>
 		<koken:note>
